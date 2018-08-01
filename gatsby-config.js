@@ -3,9 +3,9 @@ const config = {
   siteUrl: 'https://github.com/graysonhicks', // w/o pathPrefix
   siteFullUrl: this.pathPrefix + this.siteUrl,
   siteLogo: '/logos/logo.png', // Logo used for SEO and manifest.
-  siteTitle: 'gatsby-starter-skinny-docs', // Site title.
-  siteTitleAlt: 'A Skinny Gatsby Starter Template for Creating Docs', // Alternative site title for SEO.
-  siteDescription: 'Get your docs site up and going with Gatsby.', // Website description used for RSS feeds/meta description tag.
+  siteTitle: 'DMGT Documentation Site Example', // Site title.
+  siteTitleAlt: 'A single way to create and update documentation in a version-controlled manner', // Alternative site title for SEO.
+  siteDescription: 'Version-controlled documentation delivered in a modern fashion', // Website description used for RSS feeds/meta description tag.
   docsDir: 'docs', // The name of the directory that contains lessons or docs.
   siteFBAppID: 'optional facebook app id for open graph in SEO.jsx',
   backgroundColor: '#e0e0e0', // Used for setting manifest background color.
