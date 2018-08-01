@@ -19,9 +19,9 @@ class Index extends React.Component {
     const siteMetadata = this.props.data.site.siteMetadata;
     const { siteTitle, siteDescription } = siteMetadata;
     // getting logo using sharp resolutions
-    const { resolutions } = this.props.data.logo.childImageSharp;
+    // const { resolutions } = this.props.data.logo.childImageSharp;
     // getting a hero background image using sharp sizes (not using, but this is how would get from query below)
-    const { sizes } = this.props.data.bg.childImageSharp;
+    // const { sizes } = this.props.data.bg.childImageSharp;
 
     return (
       <div className="index-container">
@@ -31,7 +31,7 @@ class Index extends React.Component {
           <IndexHeadContainer>
             <Navigation />
             <Hero>
-              <Img resolutions={resolutions} />
+              <img src={config.siteLogo} width="150px" alt="" />
               <Title>{siteTitle}</Title>
               <Description>{siteDescription}</Description>
               {/* Hero Background as Image <Img
@@ -100,21 +100,6 @@ export const pageQuery = graphql`
           frontmatter {
             title
           }
-        }
-      }
-    }
-    logo: file(relativePath: { eq: "logo.png" }) {
-      childImageSharp {
-        resolutions(width: 127, height: 127) {
-          ...GatsbyImageSharpResolutions
-        }
-      }
-    }
-
-    bg: file(relativePath: { eq: "bg.jpg" }) {
-      childImageSharp {
-        sizes(maxWidth: 3600) {
-          ...GatsbyImageSharpSizes_noBase64
         }
       }
     }
