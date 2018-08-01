@@ -31,7 +31,7 @@ class Index extends React.Component {
           <IndexHeadContainer>
             <Navigation />
             <Hero>
-              <img src='/logos/logo.png' width="150px" alt="" />
+              <img src='/logos/dmgt-main-logo.jpg' width="150px" alt="" />
               <Title>{siteTitle}</Title>
               <Description>{siteDescription}</Description>
               {/* Hero Background as Image <Img
