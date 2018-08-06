@@ -10,8 +10,8 @@ class Body extends React.Component {
         <MainDescription>
           See it in a demo, or how to quickly add it to your project.
         </MainDescription>
-        <CtaButton to={'/install'}>DOCS</CtaButton>
-        <CtaButton to={'/demo'}>DEMO</CtaButton>
+        <CtaButton to={'/start'}>DOCS</CtaButton>
+        <CtaButton to={'/install'}>HowTo</CtaButton>
       </BodyContainer>
     );
   }
