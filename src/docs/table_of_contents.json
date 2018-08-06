@@ -6,6 +6,14 @@
       "title": "Docs",
       "subchapters": [
         {
+          "title": "Start",
+          "sections": [
+            {
+              "post": "./start.md"
+            }
+          ]
+        },
+          {
           "title": "Install",
           "sections": [
             {

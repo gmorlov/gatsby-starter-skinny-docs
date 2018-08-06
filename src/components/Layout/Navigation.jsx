@@ -12,13 +12,13 @@ class Navigation extends React.Component {
             {' '}
             HOME{' '}
           </Link>
-          <Link className="nav-link" to="/install">
+          <Link className="nav-link" to="/start">
             {' '}
             DOCS{' '}
           </Link>
-          <Link className="nav-link" to="/demo">
+          <Link className="nav-link" to="/install">
             {' '}
-            DEMO{' '}
+            HowTo{' '}
           </Link>
 
           <NavLinks />
