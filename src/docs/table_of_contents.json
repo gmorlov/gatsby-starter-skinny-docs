@@ -39,7 +39,6 @@
             {
               "post": "./how_it_works/data-flow.md"
             },
-
             {
               "post": "./how_it_works/table-of-contents-json.md"
             },
@@ -90,7 +89,9 @@
             }
           ]
         }
-      ],
+     ]
+    },
+    {
       "title": "Operating Procedures",
       "subchapters": [
         {
