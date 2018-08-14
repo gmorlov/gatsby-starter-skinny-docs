@@ -10,15 +10,15 @@ class Navigation extends React.Component {
         <section>
           <Link className="nav-link" to="/">
             {' '}
-            HOME{' '}
+            Home{' '}
           </Link>
-          <Link className="nav-link" to="/install">
+          <Link className="nav-link" to="/scope-and-responsibilities">
             {' '}
-            DOCS{' '}
+            BlueBook{' '}
           </Link>
-          <Link className="nav-link" to="/demo">
+          <Link className="nav-link" to="/contact">
             {' '}
-            DEMO{' '}
+            Contact{' '}
           </Link>
 
           <NavLinks />

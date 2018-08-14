@@ -3,27 +3,54 @@
   "possibleProp": "possibleVal",
   "chapters": [
     {
-      "title": "Docs",
+      "title": "Introduction",
       "subchapters": [
         {
-          "title": "Install",
+          "title": "Scope and responsibilities",
           "sections": [
             {
-              "post": "./install/install.md"
-            },
-            {
-              "post": "./install/get-started.md"
-            },
-            {
-              "post": "./install/customize.md"
+              "post": "./scope-and-responsibilities.md"
             }
           ]
         },
         {
-          "title": "Development",
+          "title": "Operating Model",
           "sections": [
             {
-              "post": "./development/development.md"
+              "post": "./operating-rhythm.md"
+            },
+            {
+              "post": "./approval-meetings.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Operating Procedures",
+      "subchapters": [
+        {
+          "title": "Mergers and Acquisitions",
+          "sections": [
+            {
+              "post": "./due-diligence-playbook.md"
+            },
+            {
+              "post": "./due-diligence-checklist.md"
+            },
+            {
+              "post": "./due-diligence-reports.md"
+            },
+            {
+              "post": "./integration-reports.md"
+            }
+          ]
+        },
+        {
+          "title": "Security",
+          "sections": [
+            {
+              "post": "./overall-policy.md"
             },
             {
               "post": "./development/building.md"
@@ -34,12 +61,11 @@
           ]
         },
         {
-          "title": "How It Works",
+          "title": "Technology Infrastructure",
           "sections": [
             {
               "post": "./how_it_works/data-flow.md"
             },
-
             {
               "post": "./how_it_works/table-of-contents-json.md"
             },
@@ -58,7 +84,7 @@
           ]
         },
         {
-          "title": "Gatsby Specific",
+          "title": "Data",
           "sections": [
             {
               "post": "./plugins/plugins.md"
@@ -72,7 +98,7 @@
           ]
         },
         {
-          "title": "Credits and Contributing",
+          "title": "AI/ML",
           "sections": [
             {
               "post": "./credits_and_contributing/credits.md"
@@ -83,7 +109,31 @@
           ]
         },
         {
-          "title": "Help",
+          "title": "Integration guidelines for service",
+          "sections": [
+            {
+              "post": "./help/frequently_asked_questions.md"
+            }
+          ]
+        },
+        {
+          "title": "Approvals",
+          "sections": [
+            {
+              "post": "./help/frequently_asked_questions.md"
+            }
+          ]
+        },
+        {
+          "title": "Operations",
+          "sections": [
+            {
+              "post": "./help/frequently_asked_questions.md"
+            }
+          ]
+        },
+        {
+          "title": "Approved Partner Agreements",
           "sections": [
             {
               "post": "./help/frequently_asked_questions.md"
