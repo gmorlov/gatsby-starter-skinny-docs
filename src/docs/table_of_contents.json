@@ -9,7 +9,7 @@
           "title": "Scope and responsibilities",
           "sections": [
             {
-              "post": "./start.md"
+              "post": "./scope-and-responsibilities.md"
             }
           ]
         },
@@ -33,7 +33,7 @@
           "title": "Mergers and Acquisitions",
           "sections": [
             {
-              "post": "./m-a-due-diligence-playbook.md"
+              "post": "./due-diligence-playbook.md"
             },
             {
               "post": "./due-diligence-checklist.md"
