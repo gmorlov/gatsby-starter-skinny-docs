@@ -53,10 +53,16 @@
               "post": "./overall-policy.md"
             },
             {
-              "post": "./development/building.md"
+              "post": "./best-practices.md"
             },
             {
-              "post": "./development/deploying.md"
+              "post": "./governance.md"
+            },
+            {
+              "post": "./reporting-and-metrics.md"
+            },
+            {
+              "post": "./tools-and-services-available.md"
             }
           ]
         },
@@ -64,22 +70,13 @@
           "title": "Technology Infrastructure",
           "sections": [
             {
-              "post": "./how_it_works/data-flow.md"
+              "post": "./office-365-configuration-policy.md"
             },
             {
-              "post": "./how_it_works/table-of-contents-json.md"
+              "post": "./multi-factor-authentication.md"
             },
             {
-              "post": "./how_it_works/gatsby-node.md"
-            },
-            {
-              "post": "./how_it_works/table-of-contents.md"
-            },
-            {
-              "post": "./how_it_works/home-page.md"
-            },
-            {
-              "post": "./how_it_works/demo-page.md"
+              "post": "./encryption.md"
             }
           ]
         },
@@ -87,13 +84,10 @@
           "title": "Data",
           "sections": [
             {
-              "post": "./plugins/plugins.md"
+              "post": "./data-tools.md"
             },
             {
-              "post": "./plugins/source.md"
-            },
-            {
-              "post": "./plugins/transformers.md"
+              "post": "./data-structure-principles.md"
             }
           ]
         },
@@ -101,10 +95,10 @@
           "title": "AI/ML",
           "sections": [
             {
-              "post": "./credits_and_contributing/credits.md"
+              "post": "./ai-ml-tools.md"
             },
             {
-              "post": "./credits_and_contributing/contributing.md"
+              "post": "./ai-ml-best-practices.md"
             }
           ]
         },
@@ -112,7 +106,7 @@
           "title": "Integration guidelines for service",
           "sections": [
             {
-              "post": "./help/frequently_asked_questions.md"
+              "post": "./identity-management.md"
             }
           ]
         },
@@ -120,7 +114,10 @@
           "title": "Approvals",
           "sections": [
             {
-              "post": "./help/frequently_asked_questions.md"
+              "post": "./contract-approval-process.md"
+            },
+            {
+              "post": "./financial-approvals.md"
             }
           ]
         },
@@ -128,7 +125,13 @@
           "title": "Operations",
           "sections": [
             {
-              "post": "./help/frequently_asked_questions.md"
+              "post": "./administration-around-centrally-procured-services.md"
+            },
+            {
+              "post": "./incident-response.md"
+            },
+            {
+              "post": "./management-information-metrics.md"
             }
           ]
         },
@@ -136,7 +139,10 @@
           "title": "Approved Partner Agreements",
           "sections": [
             {
-              "post": "./help/frequently_asked_questions.md"
+              "post": "./partner-agreements-oocto-level.md"
+            },
+            {
+              "post": "./partner-agreements-opco-level.md"
             }
           ]
         }
