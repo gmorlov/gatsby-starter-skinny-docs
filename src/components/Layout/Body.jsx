@@ -10,7 +10,7 @@ class Body extends React.Component {
         <MainDescription>
           See it in a demo, or how to quickly add it to your project.
         </MainDescription>
-        <CtaButton to={'/start'}>BlueBook</CtaButton>
+        <CtaButton to={'/scope-and-responsibilities'}>BlueBook</CtaButton>
         <CtaButton to={'/contact'}>Contact</CtaButton>
       </BodyContainer>
     );

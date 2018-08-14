@@ -12,7 +12,7 @@ class Navigation extends React.Component {
             {' '}
             Home{' '}
           </Link>
-          <Link className="nav-link" to="/start">
+          <Link className="nav-link" to="/scope-and-responsibilities">
             {' '}
             BlueBook{' '}
           </Link>
