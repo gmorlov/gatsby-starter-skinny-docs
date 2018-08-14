@@ -1,4 +1,4 @@
 ---
-title: new doc
+title: Scope and responsibilities
 ---
-This is a brand new doc
+foo
