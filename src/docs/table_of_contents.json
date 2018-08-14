@@ -6,7 +6,7 @@
       "title": "Introduction",
       "subchapters": [
         {
-          "title": "Scope and responsibilities ",
+          "title": "Scope and responsibilities",
           "sections": [
             {
               "post": "./scope-and-responsibilities.md"
@@ -24,7 +24,7 @@
             }
           ]
         }
-     ]
+      ]
     },
     {
       "title": "Operating Procedures",
