@@ -9,10 +9,7 @@
           "title": "Scope and responsibilities ",
           "sections": [
             {
-              "post": "./install/install.md"
-            },
-            {
-              "post": "./install/get-started.md"
+              "post": "./scope-and-responsibilities.md"
             }
           ]
         },
@@ -20,13 +17,10 @@
           "title": "Operating Model",
           "sections": [
             {
-              "post": "./development/development.md"
+              "post": "./operating-rhythm.md"
             },
             {
-              "post": "./development/building.md"
-            },
-            {
-              "post": "./development/deploying.md"
+              "post": "./approval-meetings.md"
             }
           ]
         }
@@ -39,13 +33,16 @@
           "title": "Mergers and Acquisitions",
           "sections": [
             {
-              "post": "./install/install.md"
+              "post": "./m-a-due-diligence-playbook.md"
             },
             {
-              "post": "./install/get-started.md"
+              "post": "./due-diligence-checklist.md
             },
             {
-              "post": "./install/customize.md"
+              "post": "./due-diligence-reports.md"
+            },
+            {
+              "post": "./integration-reports.md"
             }
           ]
         },
@@ -53,7 +50,7 @@
           "title": "Security",
           "sections": [
             {
-              "post": "./development/development.md"
+              "post": "./overall-policy.md"
             },
             {
               "post": "./development/building.md"
