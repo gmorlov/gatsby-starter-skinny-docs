@@ -1,5 +1,5 @@
 ---
-title: Governance calendar
+title: Governance
 ---
 
 foo
