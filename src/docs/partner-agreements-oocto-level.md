@@ -31,8 +31,16 @@ title: Partner agreements - OOCTO level
 
 * No services executed under the agreement.  In discussion with DMGT.
 
-## NCC Security Services Ltd Framework Agreement for Supply of Services dated 8/3/2018
+## NCC Security Services Ltd Framework Agreement dated 8/3/2018
 
 **Framework Agreement for Security Testing and Consulting services, template for SOW and standard terms.**
 
 * No services executed under the agreement.** **In discussion with dmgMedia and RMS.
+
+## Synposis Master Services Agreement dated 6/15/2018
+
+**Services Agreement that may include the  delivery  of  products,  including,  without  limitation,  data, reports,  test  plans,  documentation  and  software.**
+
+* No commerical services executed under the agreement.
+
+##
