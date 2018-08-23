@@ -12,7 +12,7 @@ title: Partner agreements - OOCTO level
 
 ** Subscription to Snyk services **
 
-* Enterprise Developer License: License count is based on number of developers who commit code to repository in a given month - 1 year term expires on June 22, 2018.  Licenses are allocated to each OpCo as follows:
+* Enterprise Developer License:  License count is based on number of developers who commit code to repository in a given month - 1 year term expires on June 22, 2018.  Licenses are allocated to each OpCo as follows:
   * Hobsons - 115
   * Landmark - 100
   * Trepp - 25
@@ -28,3 +28,29 @@ title: Partner agreements - OOCTO level
 ## **KnowB4 Master Agreement dated 2/13/2018**
 
 **Subscription and License Agreement to KnowB4 products and services**
+
+* No services executed under the agreement.  In discussion with DMGT.
+
+## NCC Security Services Ltd Framework Agreement dated 8/3/2018
+
+**Framework Agreement for Security Testing and Consulting services, Template for SOW and standard terms.**
+
+* No services executed under the agreement.** **In discussion with dmgMedia and RMS.
+
+## Synopsis Master Services Agreement dated 6/15/2018
+
+**Services Agreement for delivery  of  products, data, reports,  test  plans,  documentation  and  software.**
+
+* No commerical services executed under the agreement.
+
+## Slack Terms of Use Online Agreement dated 5/18/2018
+
+**Slack services agreement**
+
+* Slack Plus Annual License: $135 per year for all new users/instances added under the DMGT account.  Each instance will have its own admin.
+* Currently the following instances under this pricing structure:
+  * dmgt - tech
+  * dmgt - northcliffe
+  * hobsons
+  * dmgEvents
+  * dmgMedia
