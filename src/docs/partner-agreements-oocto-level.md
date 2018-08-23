@@ -43,4 +43,8 @@ title: Partner agreements - OOCTO level
 
 * No commerical services executed under the agreement.
 
-##
+## Slack Terms of Use Online Agreement dated 5/18/2018
+
+**Slack services agreement**
+
+* Slack Plus Annual License: $135 per year for all new users/instances added under the DMGT account.  Each instance will have its own admin.
