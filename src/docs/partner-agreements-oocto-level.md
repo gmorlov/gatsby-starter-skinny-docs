@@ -29,4 +29,4 @@ title: Partner agreements - OOCTO level
 
 **Subscription and License Agreement to KnowB4 products and services**
 
-\*
+* No services being utilzed under the agreement.  In discussion stage.
