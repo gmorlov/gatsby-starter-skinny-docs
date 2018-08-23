@@ -12,7 +12,7 @@ title: Partner agreements - OOCTO level
 
 ** Subscription to Snyk services **
 
-* Enterprise Developer License:** **License count is based on number of developers who commit code to repository in a given month - 1 year term expires on June 22, 2018.  Licenses are allocated to each OpCo as follows:
+* Enterprise Developer License: License count is based on number of developers who commit code to repository in a given month - 1 year term expires on June 22, 2018.  Licenses are allocated to each OpCo as follows:
   * Hobsons - 115
   * Landmark - 100
   * Trepp - 25
@@ -28,5 +28,3 @@ title: Partner agreements - OOCTO level
 ## **KnowB4 Master Agreement dated 2/13/2018**
 
 **Subscription and License Agreement to KnowB4 products and services**
-
-*
