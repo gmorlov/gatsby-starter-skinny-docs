@@ -33,13 +33,13 @@ title: Partner agreements - OOCTO level
 
 ## NCC Security Services Ltd Framework Agreement dated 8/3/2018
 
-**Framework Agreement for Security Testing and Consulting services, template for SOW and standard terms.**
+**Framework Agreement for Security Testing and Consulting services, Template for SOW and standard terms.**
 
 * No services executed under the agreement.** **In discussion with dmgMedia and RMS.
 
-## Synposis Master Services Agreement dated 6/15/2018
+## Synopsis Master Services Agreement dated 6/15/2018
 
-**Services Agreement that may include the  delivery  of  products,  including,  without  limitation,  data, reports,  test  plans,  documentation  and  software.**
+**Services Agreement for delivery  of  products, data, reports,  test  plans,  documentation  and  software.**
 
 * No commerical services executed under the agreement.
 
@@ -48,3 +48,9 @@ title: Partner agreements - OOCTO level
 **Slack services agreement**
 
 * Slack Plus Annual License: $135 per year for all new users/instances added under the DMGT account.  Each instance will have its own admin.
+* Currently the following instances under this pricing structure:
+  * dmgt - tech
+  * dmgt - northcliffe
+  * hobsons
+  * dmgEvents
+  * dmgMedia
