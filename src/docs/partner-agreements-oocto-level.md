@@ -29,10 +29,10 @@ title: Partner agreements - OOCTO level
 
 **Subscription and License Agreement to KnowB4 products and services**
 
-* No services being utilzed under the agreement.  In discussion stage.
+* No services executed under the agreement.  In discussion with DMGT.
 
 ## NCC Security Services Ltd Framework Agreement for Supply of Services dated 8/3/2018
 
 **Framework Agreement for Security Testing and Consulting services, template for SOW and standard terms.**
 
-* No services executed but under discussion with dmgMedia
+* No services executed under the agreement.** **In discussion with dmgMedia and RMS.
