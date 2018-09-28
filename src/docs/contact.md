@@ -8,3 +8,9 @@ Contact info
 Rob Chandhok, CTO
 
 etc
+
+
+
+new contact added as test
+
+Arvin Chander
